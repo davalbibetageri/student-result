@@ -1,6 +1,10 @@
 🎓 Student Performance Analyzer — Streamlit App
 
 This project converts the StudentsPerformance.csv exploratory-analysis notebook into an interactive Streamlit web app.
+<img width="1448" height="760" alt="WhatsApp Image 2026-09-25 at 12 23 40 PM" src="https://github.com/user-attachments/assets/3aaa7c6e-0d11-44bc-b389-ad5dae3a19bd" />
+<img width="1447" height="818" alt="WhatsApp Image 2026-09-25 at 12 23 41 PM" src="https://github.com/user-attachments/assets/b149537f-e4df-4324-82a5-a776c4851f98" />
+
+
 
 Dataset
 
